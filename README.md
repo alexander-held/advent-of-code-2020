@@ -21,3 +21,4 @@ What is each day about?
 - `16`: matching rules to list of examples following rules in unknown order to determine order of rules in example
 - `17`: 3d and 4d cellular automata
 - `18`: expression parsing with custom operator precedence
+- `19`: counting messages satisfying rules with loops / context-free grammar
