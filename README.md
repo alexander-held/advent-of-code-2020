@@ -23,3 +23,4 @@ What is each day about?
 - `18`: expression parsing with custom operator precedence
 - `19`: counting messages satisfying rules with loops / context-free grammar
 - `20`: arranging puzzle pieces to solve puzzle, finding sea monster in solved image
+- `21`: matching allergens to ingredients in list of food items / bipartite matching
