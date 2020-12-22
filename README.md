@@ -24,3 +24,4 @@ What is each day about?
 - `19`: counting messages satisfying rules with loops / context-free grammar
 - `20`: arranging puzzle pieces to solve puzzle, finding sea monster in solved image
 - `21`: matching allergens to ingredients in list of food items / bipartite matching
+- `22`: playing 2-player card game with recursion
