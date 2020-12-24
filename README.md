@@ -26,3 +26,4 @@ What is each day about?
 - `21`: matching allergens to ingredients in list of food items / bipartite matching
 - `22`: playing 2-player card game with recursion
 - `23`: circle cup game / linked list
+- `24`: hexagonal grid navigation / cellular automaton
