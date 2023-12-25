@@ -1,5 +1,7 @@
 # Advent of Code 2020
 
+This repository is now superseded by [alexander-held/advent-of-code](https://github.com/alexander-held/advent-of-code).
+
 Solutions to Advent of Code 2020 puzzles: https://adventofcode.com/2020.
 
 What is each day about?
